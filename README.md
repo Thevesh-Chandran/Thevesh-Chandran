@@ -43,6 +43,12 @@ I am a Beginner in Front-End Development <img src="https://media.giphy.com/media
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **Thevesh-Chandran/Thevesh-Chandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
