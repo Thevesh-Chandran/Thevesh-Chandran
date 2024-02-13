@@ -28,6 +28,12 @@
 ---
 
 ### :man_technologist: About Me :
+I am a Beginner in Front-End Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
+
+- :seedling: Iam learning Front-End Development languages such as HTML, CSS and Javascript.
+
+- :zap: In the future, I aim to build the skills and portfolio to become a Full-Stack Web Developer.
+
 
 <!--
 **Thevesh-Chandran/Thevesh-Chandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
