@@ -64,26 +64,13 @@ I also won **1st Place at AI VideoHackathon KL 2026** with **Team Git Outta Here
 
 ## My toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,aws,gcp,git,github,vscode&theme=dark" alt="Python, SQL (MySQL icon), AWS, Google Cloud, Git, GitHub and VS Code">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel">
-  <img src="https://img.shields.io/badge/SAS-007CC2?style=for-the-badge" alt="SAS">
-</p>
-
-| Area | Tools and skills |
+| Area | Tools |
 |---|---|
-| Programming & analysis | Python, SQL, SAS, Excel, Pandas, NumPy |
-| Visualisation | Power BI, Matplotlib |
-| Machine learning | scikit-learn, predictive modelling, model evaluation |
-| Data platforms | PySpark, AWS, Google BigQuery |
-| Development | Git, GitHub, VS Code, Google Colab |
+| Programming & analysis | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL" title="SQL"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"> &nbsp; <img src="https://img.shields.io/badge/SAS-007CC2?style=flat-square" alt="SAS" title="SAS"> &nbsp; <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"> |
+| Visualisation | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" title="Matplotlib"> &nbsp; <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI"> |
+| Machine learning | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" title="scikit-learn"> |
+| Data platforms | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="36" height="36" alt="PySpark" title="PySpark"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" title="AWS"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google BigQuery" title="Google BigQuery"> |
+| Development | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="36" height="36" alt="Google Colab" title="Google Colab"> |
 
 ## Let's connect
 
