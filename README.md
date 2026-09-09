@@ -1,25 +1,42 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/thevesh-chandran-a2037628a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/thevesh_chandran" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thevesh-Chandran&style=flat-square&color=blue" alt="" align="center"/>
-</div>
-<div align="center">
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
-  </h1>
-</div>
+<p align="center"><img src="assets/hero.svg" alt="Thevesh Chandran" width="960"></p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h1 align="center">Thevesh Chandran</h1>
 
+<p align="center">Data Analytics undergraduate at Sunway University.</p>
+
+<p align="center"><a href="#overview">Overview</a> · <a href="#explore">Explore</a> · <a href="#getting-started">Getting started</a></p>
+
+<p align="center"><img src="https://img.shields.io/badge/PYTHON-99bceb" alt="PYTHON">
+<img src="https://img.shields.io/badge/SQL-99bceb" alt="SQL">
+<img src="https://img.shields.io/badge/POWER%20BI-99bceb" alt="POWER BI"></p>
+
+## Overview
+
+I'm studying Bachelor of Information Systems (Honours) (Data Analytics) at Sunway University. I enjoy using data to understand business problems and building practical tools from what I learn.
+
+**Seeking an internship from January 2027** in data analytics, data science, data engineering or business analysis.
+
+## Skills
+
+Python · SQL · SAS · Excel · Power BI · Pandas · NumPy · scikit-learn
+
+My coursework covers data cleaning, exploratory analysis, visualisation, predictive modelling and model evaluation.
+
+## Explore
+
+| Project | Focus |
+|---|---|
+| [US Flight Delay Analysis](https://github.com/Thevesh-Chandran/ist3134-flight-delay-analysis) | PySpark and Pandas analysis of over seven million flights |
+| [Nomobug Analytics](https://github.com/Thevesh-Chandran/Capstone-Project-x-Nomobug) | Ongoing weather-aware pest-control capstone |
+| [MongoDB vs CockroachDB](https://github.com/Thevesh-Chandran/Database-Management-Systems-Final-Report) | Database performance, scaling and consistency experiments |
+| [Jewels Spa Website](https://github.com/Thevesh-Chandran/Static-Website-for-Spa) | HTML, CSS and JavaScript for a family business |
+| [Lumie World](https://github.com/Thevesh-Chandran/Lumie-World) | AI language-learning prototype |
+| [Swytch](https://github.com/Thevesh-Chandran/Breaking-Bad-payhack) | Flutter payment experience prototype |
+
+## Hackathon achievements
+
+1st Place — AI VideoHackathon KL 2026 · 3rd Place, Customer Support Track — AutoPilot Asia Hackathon 2026 · 2nd Runner-Up — UMHackathon 2026.
+
+## Getting started
+
+Browse the projects above or [connect with me on LinkedIn](https://www.linkedin.com/in/theveshchandran/).
