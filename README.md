@@ -11,7 +11,7 @@
 
 Hi, I'm Thevesh. I'm a third-year **Bachelor of Information Systems (Honours) (Data Analytics)** student at **Sunway University**, with a **3.92 CGPA**.
 
-I like finding the story in data and turning it into something useful. My work ranges from analysing millions of flight records to building a website for my family's spa business. I'm currently developing a weather-aware analytics capstone for pest-control operations.
+I like finding the story in data and turning it into something useful. My work includes analysing millions of flight records and comparing database performance. I'm currently developing a weather-aware analytics capstone for pest-control operations.
 
 Through coursework, I've developed skills in data cleaning, exploratory analysis, visualisation, predictive modelling and model evaluation. Outside the technical work, teaching, administration and student representation have helped me learn to listen and explain ideas clearly.
 
@@ -42,10 +42,10 @@ Through coursework, I've developed skills in data cleaning, exploratory analysis
 <a href="https://github.com/Thevesh-Chandran/Database-Management-Systems-Final-Report">Explore the experiments →</a>
 </td>
 <td width="50%" valign="top">
-<h3>04 / Jewels Spa Website</h3>
-<p>One of my first web projects: a custom multi-page website for my mother's spa, with services, product pages and an image carousel.</p>
-<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-<a href="https://github.com/Thevesh-Chandran/Static-Website-for-Spa">View the source →</a>
+<h3>04 / Lumie World</h3>
+<p>A language-learning prototype combining character conversations, personalised learning and rewards with speech playback.</p>
+<p><code>Python</code> <code>Streamlit</code> <code>AWS</code></p>
+<a href="https://github.com/Thevesh-Chandran/Lumie-World">Explore the prototype →</a>
 </td>
 </tr>
 </table>
