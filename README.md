@@ -35,41 +35,47 @@ Through coursework, I've developed skills in data cleaning, exploratory analysis
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 <h3>03 / MongoDB vs CockroachDB</h3>
 <p>A database study using 100,000 sales records to investigate performance, scaling and transaction behaviour.</p>
 <p><code>MongoDB</code> <code>CockroachDB</code> <code>Python</code></p>
 <a href="https://github.com/Thevesh-Chandran/Database-Management-Systems-Final-Report">Explore the experiments →</a>
-</td>
-<td width="50%" valign="top">
-<h3>04 / Lumie World</h3>
-<p>A language-learning prototype combining character conversations, personalised learning and rewards with speech playback.</p>
-<p><code>Python</code> <code>Streamlit</code> <code>AWS</code></p>
-<a href="https://github.com/Thevesh-Chandran/Lumie-World">Explore the prototype →</a>
 </td>
 </tr>
 </table>
 
 ## Built with a team
 
-These projects live in a teammate's repositories. I contributed as part of the hackathon teams and am a repository collaborator.
+Projects I built with hackathon teammates. UniGuide and the Service Desk Command Center are hosted in a teammate's repositories, where I'm a collaborator.
 
 | Project | What we built | Team achievement |
 |---|---|---|
 | [**UniGuide**](https://github.com/ZenBen5173/uniguide) | An AI workflow assistant that helps students navigate university procedures with source-backed guidance. | **2nd Runner-Up**, UMHackathon 2026 |
 | [**Service Desk Command Center**](https://github.com/ZenBen5173/service-desk-command-center) | A command centre for recurring support issues, risk visibility and human review, with agents running on Supervity Auto. | **3rd Place, Customer Support Track**, AutoPilot Asia 2026 |
+| [**Swytch**](https://github.com/Thevesh-Chandran/Breaking-Bad-payhack) | A Flutter prototype exploring payment modes, transfers and rewards through demonstration interfaces. | **Semifinalist**, Pay Hack |
 
 I also won **1st Place at AI VideoHackathon KL 2026** with **Team Git Outta Here**, creating an AI short film centred on Malaysia's National Monument. That experience taught me how much a good story matters—even when the tools don't quite cooperate.
 
-<details>
-<summary><strong>More experiments: learning companions and payment interfaces</strong></summary>
+### Lumie World
 
-- [**Lumie World**](https://github.com/Thevesh-Chandran/Lumie-World) — a Streamlit language-learning prototype with character conversations, rewards and AWS speech services.
-- [**Swytch**](https://github.com/Thevesh-Chandran/Breaking-Bad-payhack) — a Flutter hackathon prototype exploring payment modes, transfers and rewards through demonstration interfaces.
+[**Lumie World**](https://github.com/Thevesh-Chandran/Lumie-World) is a language-learning prototype with character conversations, personalised learning, rewards and speech playback.
 
-</details>
+`Python` · `Streamlit` · `AWS`
 
 ## My toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,aws,gcp,git,github,vscode&theme=dark" alt="Python, SQL (MySQL icon), AWS, Google Cloud, Git, GitHub and VS Code">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel">
+  <img src="https://img.shields.io/badge/SAS-007CC2?style=for-the-badge" alt="SAS">
+</p>
 
 | Area | Tools and skills |
 |---|---|
