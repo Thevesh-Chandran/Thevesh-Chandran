@@ -9,7 +9,7 @@
 
 ## About me
 
-Hi, I'm Thevesh. I'm a third-year **Bachelor of Information Systems (Honours) (Data Analytics)** student at **Sunway University**, with a **3.92 CGPA**.
+Hi, I'm Thevesh. I'm a third-year **Bachelor of Information Systems (Honours) (Data Analytics)** student at **Sunway University**, with a **3.90 CGPA**.
 
 I like finding the story in data and turning it into something useful. My work includes analysing millions of flight records and comparing database performance. I'm currently developing a weather-aware analytics capstone for pest-control operations.
 
